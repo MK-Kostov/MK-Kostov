@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MK-Kostov.
-- 👀 I’m interested to start as Junior Frond - end Developer.
+- 👀 I’m interested to start as Junior Frondend Developer.
 - 🌱 I’m currently learning  React .
 - 📫 How to reach me:
          email: mishoka.kostov@gmail.com
