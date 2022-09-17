@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MK-Kostov.
+- 👋 Hi, I’m Mihail Kostov.
 - 👀 I’m interested to start as Junior Frondend Developer.
 - 🌱 I’m currently learning  React .
 - 📫 How to reach me:
