@@ -2,7 +2,7 @@
 - 👀 I’m interested to start as Junior Frondend Developer.
 - 🌱 I’m currently learning  React .
 - 📫 How to reach me:
-         email: mishoka.kostov@gmail.com
+         email: mihail.n.kostov@gmail.com
          mobile phone: 0 359-888-60-10-84.
 
 <!---
