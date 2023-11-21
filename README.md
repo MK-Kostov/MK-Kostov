@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihail Kostov.
-- 👀 I’m interested to start as Junior Frondend Developer.
+- 👀 I’m interested to start as Junior Fullstack Developer.
 - 🌱 I’m currently learning  React .
 - 📫 How to reach me:
          email: mihail.n.kostov@gmail.com
