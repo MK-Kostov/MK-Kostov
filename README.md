@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mihail Kostov.
 - 👀 I’m Junior Fullstack Developer.
-- 🌱 I’m currently learning  React .
+- 🌱 I’m currently learning  C#, ASP.NET MVC, React .
 - 📫 How to reach me:
          email: mihail.n.kostov@gmail.com
          mobile phone: 0 359-888-60-10-84.
