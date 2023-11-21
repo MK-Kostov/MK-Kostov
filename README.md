@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mihail Kostov.
-- 👀 I’m Junior Fullstack Developer.
+- 👀 I’m Junior Full Stack Developer.
 - 🌱 I’m currently learning  C#, ASP.NET MVC, React .
 - 📫 How to reach me:
          email: mihail.n.kostov@gmail.com
